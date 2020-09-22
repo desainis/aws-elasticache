@@ -1,4 +1,36 @@
-Role Name
+![Contributors](https://img.shields.io/github/contributors/desainis/aws-elasticache)
+![Forks](https://img.shields.io/github/forks/desainis/aws-elasticache)
+![Stargazers](https://img.shields.io/github/stars/desainis/aws-elasticache)
+![Issues](https://img.shields.io/github/issues/desainis/aws-elasticache)
+![MIT License](https://img.shields.io/github/license/desainis/aws-elasticache)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/desainis/aws-elasticache">
+    <img src="https://vuejs.org/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Mark-Large-RGB-Mango.png?hsLang=en-us" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Todos App</h3>
+
+  <p align="center">
+    This sample web application is used to demonstrate how to manage complex AWS Architectures using Ansible.
+    <br />
+    <a href="https://github.com/desainis/aws-elasticache"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/desainis/aws-elasticache">View Demo</a>
+    ·
+    <a href="https://github.com/desainis/aws-elasticache/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/desainis/aws-elasticache/issues">Request Feature</a>
+  </p>
+</p>
+
+------------
+
+Ansible Role: aws-elasticache
 =========
 
 A brief description of the role goes here.
